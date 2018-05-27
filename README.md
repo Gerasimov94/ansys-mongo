@@ -1,1 +1,1 @@
-Implimetaton of ANSYS data interface# ansys-mongo
+Implimetaton of ANSYS data interface
